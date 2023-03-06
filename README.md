@@ -8,13 +8,13 @@
 
 ### 📖 개념
 > #### CS
-  - 프로세스와 스레드
-  - 싱글 스레드와 멀티 스레드
+  - [프로세스와 스레드](https://github.com/sol-pine/cs-study/tree/main/cs/Q1-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C)
+  - [싱글 스레드와 멀티 스레드](https://github.com/sol-pine/cs-study/tree/main/cs/Q2-%EC%8B%B1%EA%B8%80%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80%20%EB%A9%80%ED%8B%B0%20%EC%8A%A4%EB%A0%88%EB%93%9C)
   
 > #### React 
-  - 상태 관리
-  - DOM
+  - [상태 관리](https://github.com/sol-pine/cs-study/tree/main/react/Q1-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)
+  - [DOM](https://github.com/sol-pine/cs-study/tree/main/react/Q2-DOM)
   
 > #### JavaScript 
-  - 컴파일러와 인터프리터
-  - 식별자
+  - [컴파일러와 인터프리터](https://github.com/sol-pine/cs-study/tree/main/javascript/Q1-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0)
+  - [식별자](https://github.com/sol-pine/cs-study/tree/main/javascript/Q2-%EC%8B%9D%EB%B3%84%EC%9E%90)
