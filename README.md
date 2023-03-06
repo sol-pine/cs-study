@@ -17,3 +17,6 @@
   - [상태 관리](https://github.com/sol-pine/cs-study/tree/main/react/Q1-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)
   - [DOM](https://github.com/sol-pine/cs-study/tree/main/react/Q2-DOM)
   
+### 🔗 참고 링크
+- [자바스크립트 엔진의 최적화 기법](https://meetup.nhncloud.com/posts/77)
+- [Dan Abramov 블로그](https://overreacted.io/) 
