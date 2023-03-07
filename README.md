@@ -11,8 +11,8 @@
 > #### CS
   - [✅ 프로세스와 스레드](https://github.com/sol-pine/cs-study/tree/main/cs/Q1-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C)
   - [✅ 싱글 스레드와 멀티 스레드](https://github.com/sol-pine/cs-study/tree/main/cs/Q2-%EC%8B%B1%EA%B8%80%20%EC%8A%A4%EB%A0%88%EB%93%9C%EC%99%80%20%EB%A9%80%ED%8B%B0%20%EC%8A%A4%EB%A0%88%EB%93%9C)
-  - [HTTP와 HTTPS](https://github.com/sol-pine/cs-study/tree/main/cs/Q3-%20HTTP%EC%99%80%20HTTPS)
-  - [브라우저 작동 원리](https://github.com/sol-pine/cs-study/tree/main/cs/Q4-%20%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC)
+  - [HTTP와 HTTPS](https://github.com/sol-pine/cs-study/tree/main/cs/Q3-HTTP%EC%99%80%20HTTPS)
+  - [브라우저 작동 원리](https://github.com/sol-pine/cs-study/tree/main/cs/Q4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC)
 > #### JavaScript 
   - [✅ 컴파일러와 인터프리터](https://github.com/sol-pine/cs-study/tree/main/javascript/Q1-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0)
   - [✅ 식별자](https://github.com/sol-pine/cs-study/tree/main/javascript/Q2-%EC%8B%9D%EB%B3%84%EC%9E%90)
