@@ -13,15 +13,15 @@
   - [x] [HTTP와 HTTPS](https://github.com/sol-pine/cs-study/tree/main/cs/Q3-HTTP%EC%99%80%20HTTPS)
   - [x] [브라우저 작동 원리](https://github.com/sol-pine/cs-study/tree/main/cs/Q4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC)
   - [x] [CORS](https://github.com/sol-pine/cs-study/tree/main/cs/Q5-%08CORS)
-  - [ ] 쿠키와 세션
-  - [ ] 이벤트 전파와 이벤트 위임
-  - [ ] 웹팩
-  - [ ] 바벨
-  - [ ] SEO
-  - [ ] 웹 스토리지
-  - [ ] REST API
-  - [ ] TDD
-  - [ ] 웹 표준
+  - [ ] 쿠키와 세션 (해솔)
+  - [ ] 이벤트 전파와 이벤트 위임 (해솔)
+  - [ ] 웹팩 (하은)
+  - [ ] 바벨 (하은)
+  - [ ] SEO (담)
+  - [ ] 웹 스토리지 (담)
+  - [ ] REST API 
+  - [ ] TDD 
+  - [ ] 웹 표준 
   - [ ] 싱글톤 패턴
   - [ ] MVC 패턴, MVP 패턴, MVVM 패턴
   - [ ] GET과 POST의 차이
@@ -32,12 +32,12 @@
   - [x] [호이스팅](https://github.com/sol-pine/cs-study/tree/main/javascript/Q3-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85)
   - [x] [데이터 타입의 종류](https://github.com/sol-pine/cs-study/tree/main/javascript/Q4-%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85%EC%9D%98%20%EC%A2%85%EB%A5%98)
   - [x] [정적 타이핑과 동적 타이핑](https://github.com/sol-pine/cs-study/tree/main/javascript/Q5-%EC%A0%95%EC%A0%81%20%ED%83%80%EC%9D%B4%ED%95%91%EA%B3%BC%20%EB%8F%99%EC%A0%81%20%ED%83%80%EC%9D%B4%ED%95%91)
-  - [ ] 클로저
-  - [ ] this
-  - [ ] 프로미스
-  - [ ] 디바운스
-  - [ ] 쓰로틀
-  - [ ] 구조분해 할당
+  - [ ] 클로저 (해솔)
+  - [ ] this (해솔)
+  - [ ] 프로미스 (하은)
+  - [ ] 디바운스 (하은)
+  - [ ] 쓰로틀 (담) 
+  - [ ] 구조분해 할당 (담)
   - [ ] 함수형 프로그래밍
   - [ ] 객체지향 프로그래밍
   - [ ] 함수와 메서드 차이
