@@ -46,9 +46,9 @@
 > #### React 
   - [x] [상태 관리](https://github.com/sol-pine/cs-study/tree/main/react/Q1-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)
   - [x] [DOM](https://github.com/sol-pine/cs-study/tree/main/react/Q2-DOM)
-  - [ ] [라이프사이클](https://github.com/sol-pine/cs-study/tree/main/react/Q3-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4)
-  - [ ] [메모이제이션](https://github.com/sol-pine/cs-study/tree/main/react/Q4-%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98)
-  - [ ] [Props와 State](https://github.com/sol-pine/cs-study/tree/main/react/Q5-Props%EC%99%80%20State)
+  - [x] [라이프사이클](https://github.com/sol-pine/cs-study/tree/main/react/Q3-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4)
+  - [x] [메모이제이션](https://github.com/sol-pine/cs-study/tree/main/react/Q4-%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98)
+  - [x] [Props와 State](https://github.com/sol-pine/cs-study/tree/main/react/Q5-Props%EC%99%80%20State)
   - [ ] FLUX
   - [ ] SPA와 MPA
   - [ ] SPA에서 SEO에 유리하도록 만들기 위한 방법
