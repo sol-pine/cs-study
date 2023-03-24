@@ -1,1 +1,1 @@
-# GET과 POST의 차이
+# GET과 POST의 차이 
