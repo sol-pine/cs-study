@@ -7,10 +7,10 @@
 ```jsx
 // 객체 리터럴
 const circle = {
-	radius = 5; // 프로퍼티
-	getDiameter() { // 메서드
-		return 2 * circle.radius;
-	}
+  radius = 5; // 프로퍼티
+  getDiameter() { // 메서드
+    return 2 * circle.radius;
+  }
 }
 ```
 - 메서드가 호출되기 전에 객체가 생성되었고, circle 식별자에 객체가 할당되어 참조 가능
@@ -18,11 +18,11 @@ const circle = {
 ```jsx
 // 생성자 함수로 인스턴스 생성
 function Circle(radius) {
-	???.radius = radius;
+  ???.radius = radius;
 }
 
 Circle.prototype.getDiameter = function () {
-	return 2 * ???.radius;
+  return 2 * ???.radius;
 }
 
 const circle = new Circle(5);
@@ -34,20 +34,20 @@ const circle = new Circle(5);
 
 ```jsx
 // 객체 리터럴
-const **circle** = {
-	radius = 5; // 프로퍼티
-	getDiameter() { // 메서드
-		return 2 * **this**.radius;
-	}
+const  circle = {
+  radius = 5; // 프로퍼티
+  getDiameter() { // 메서드
+    return 2 * **this**.radius;
+  }
 }
 
 // 생성자 함수
 function Circle(radius) {
-	**this**.radius = radius;
+  this.radius = radius;
 }
 
 Circle.prototype.getDiameter = function () {
-	return 2 * **this**.radius;
+  return 2 * this.radius;
 }
 
 const circle = new Circle(5);
@@ -55,33 +55,33 @@ const circle = new Circle(5);
 ## this 바인딩
 
 ```jsx
-// this 바인딩은 **함수 호출** 시점에 결정
+// this 바인딩은 함수 호출 시점에 결정
 console.log(this); // 전역 : window
 
 function square(number) {
-	console.log(this); // 일반 함수 내부 : window (strict mode에선 undefined)
-	return number * number
+  console.log(this); // 일반 함수 내부 : window (strict mode에선 undefined)
+  return number * number
 }
 
 var name = 'John';
 const person = {
-	name: 'Lee',
-	getName() {
-		console.log(this); // 메서드 내부 : 메서드가 호출한 객체 { name: 'Lee', getName: ƒ getName() }
-		console.log(this.name); // 'Lee'
-		function nothing() {
-			console.log(this); // 메서드 내의 중첩 함수 : window
-			console.log(this.name); // 'John'
-			// 중첩함수, 콜백함수의 this를 메서드 this 바인딩과 일치시키기 위해 that 사용
-			// 또는 .bind 메서드나 화살표 함수 사용
-			console.log(that.name); // 'Lee'
-		}
-	}
+  name: 'Lee',
+  getName() {
+    console.log(this); // 메서드 내부 : 메서드가 호출한 객체 { name: 'Lee', getName: ƒ getName() }
+    console.log(this.name); // 'Lee'
+    function nothing() {
+        console.log(this); // 메서드 내의 중첩 함수 : window
+        console.log(this.name); // 'John'
+        // 중첩함수, 콜백함수의 this를 메서드 this 바인딩과 일치시키기 위해 that 사용
+        // 또는 .bind 메서드나 화살표 함수 사용
+        console.log(that.name); // 'Lee'
+     }
+  }
 }
 
 function Person(name) {
-	this.name = name;
-	console.log(this); // 생성자 함수 내부 : 인스턴스 Person { name: 'Lee' }
+  this.name = name;
+  console.log(this); // 생성자 함수 내부 : 인스턴스 Person { name: 'Lee' }
 }
 ```
 
@@ -106,12 +106,12 @@ callName(); // ''
 1. 다른 객체의 프로퍼티에 할당되어 다른 객체의 메서드가 될 수 있다.
 ```jsx
 const anotherPerson = {
-	name: 'Chandler'
+  name: 'Chandler'
 }
 // 메서드 할당
 anotherPerson.callName = person.callName;
 // 이번에 호출한 객체는 anotherPerson
-**anotherPerson**.callName(); // 'Chandler'
+anotherPerson.callName(); // 'Chandler'
 ```
 2. 일반 변수에 할당해 일반 함수로 호출될 수 있다.
 ```jsx
@@ -125,10 +125,10 @@ callName(); // ''
 - 미래에 생성되는 인스턴스가 바인딩
 ```jsx
 function Circle(radius) {
-	this.radius = radius;
-	this.getDiameter = function () {
-		return 2 * this.radius;
-	}
+  this.radius = radius;
+  this.getDiameter = function () {
+    return 2 * this.radius;
+  }
 }
 
 const circle1 = new Circle(5); // this.radius => 5
@@ -141,37 +141,37 @@ const circle2 = new Circle(10); // this.radius => 10
 
 ```jsx
 function getThisBinding(){
-	return this;
+  return this;
 }
 
 const thisArg = { a: 1 };
 
 getThisBinding(); // window
 // getThisBinding 함수 호출 + 인수로 전달하는 객체를 this에 바인딩
-getThisBinding.**apply**(thisArg); // { a: 1 }
-getThisBinding.**call**(thisArg); // { a: 1 }
+getThisBinding.apply(thisArg); // { a: 1 }
+getThisBinding.call(thisArg); // { a: 1 }
 ```
 
 - 차이점은 함수의 인수를 전달하는 형식
 ```jsx
 const thisArg = { a: 1 };
 
-getThisBinding.**apply**(thisArg, [1, 2]); // 배열로 전달
-getThisBinding.**call**(thisArg, 1, 2); // 쉼표로 구분한 리스트로 전달
+getThisBinding.apply(thisArg, [1, 2]); // 배열로 전달
+getThisBinding.call(thisArg, 1, 2); // 쉼표로 구분한 리스트로 전달
 ```
 
 - Bind 메서드는 함수를 호출하지 않는다.
 ```jsx
 function getThisBinding(){
-	return this;
+  return this;
 }
 
 const thisArg = { a: 1 };
 
 // getThisBinding 바인딩 교체 함수 생성
-getThisBinding.**bind**(thisArg); // getThisBinding 함수를 새롭게 생성
+getThisBinding.bind(thisArg); // getThisBinding 함수를 새롭게 생성
 // 별도 호출 필요
-getThisBinding.**call**(thisArg)(); // { a: 1 }
+getThisBinding.bind(thisArg)(); // { a: 1 }
 ```
 
 | 함수 호출 방식 | this 바인딩 |
