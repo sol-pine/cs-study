@@ -61,6 +61,7 @@
 - 이벤트 위임 : currentTarget을 콘솔에 찍으면 뭐가 찍힐까?
 - 바벨 : 바벨이 실행되는 건 빌드때 실행되는 걸까?
 - SEO : SPA에는 URL이 없다? History API?
+- 웹 스토리지 : 유저 인증 세션과 세션 스토리지는 무슨 관계일까?
 
 ### 🔗 참고 링크
 - [자바스크립트 엔진의 최적화 기법](https://meetup.nhncloud.com/posts/77)
