@@ -6,10 +6,10 @@
 
 ```jsx
 // 객체 리터럴
-const **circle** = {
+const circle = {
 	radius = 5; // 프로퍼티
 	getDiameter() { // 메서드
-		return 2 * **circle**.radius;
+		return 2 * circle.radius;
 	}
 }
 ```
@@ -18,11 +18,11 @@ const **circle** = {
 ```jsx
 // 생성자 함수로 인스턴스 생성
 function Circle(radius) {
-	**???**.radius = radius;
+	???.radius = radius;
 }
 
 Circle.prototype.getDiameter = function () {
-	return 2 * **???**.radius;
+	return 2 * ???.radius;
 }
 
 const circle = new Circle(5);
@@ -89,14 +89,14 @@ function Person(name) {
 - this의 값은 함수 호출을 하는 방법에 의해 결정된다. ⇒ 누가 this를 호출했나?
 ```jsx
 const person = {
-	name: 'Joy',
-	callName() {
-		console.log(this.name);
-	}
+  name: 'Joy',
+  callName() {
+    console.log(this.name);
+  }
 }
 
 // 누가 callName()을 불렀냐, 호출한 객체는 person
-**person**.callName(); // 'Joy'
+person.callName(); // 'Joy'
 
 // 일반 함수로 호출, 브라우저가 호출한 셈
 const callName = person.callName
