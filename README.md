@@ -40,7 +40,7 @@
   - [x] [구조분해 할당](https://github.com/sol-pine/cs-study/blob/main/javascript/Q11-%EA%B5%AC%EC%A1%B0%EB%B6%84%ED%95%B4%20%ED%95%A0%EB%8B%B9.md)(담)
   - [ ] [함수형 프로그래밍](https://github.com/sol-pine/cs-study/blob/main/javascript/Q12-%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)(하은)
   - [ ] [객체지향 프로그래밍](https://github.com/sol-pine/cs-study/blob/main/javascript/Q13-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)(하은)
-  - [ ] [함수와 메서드 차이](https://github.com/sol-pine/cs-study/blob/main/javascript/Q14-%ED%95%A8%EC%88%98%EC%99%80%20%EB%A9%94%EC%84%9C%EB%93%9C%20%EC%B0%A8%EC%9D%B4.md)(해솔)
+  - [ ] [함수와 메서드](https://github.com/sol-pine/cs-study/blob/main/javascript/Q14-%ED%95%A8%EC%88%98%EC%99%80%20%EB%A9%94%EC%84%9C%EB%93%9C.md)(해솔)
   - [ ] [동기와 비동기](https://github.com/sol-pine/cs-study/blob/main/javascript/Q15-%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)(해솔)
   - [ ] [스코프](https://github.com/sol-pine/cs-study/blob/main/javascript/Q16-%EC%8A%A4%EC%BD%94%ED%94%84.md)(담)
   - [ ] [실행 컨텍스트](https://github.com/sol-pine/cs-study/blob/main/javascript/Q17-%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)(담)
