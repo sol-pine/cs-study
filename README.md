@@ -25,6 +25,13 @@
   - [ ] [싱글톤 패턴](https://github.com/sol-pine/cs-study/blob/main/cs/Q15-%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)(해솔)
   - [ ] [MVC 패턴, MVP 패턴, MVVM 패턴](https://github.com/sol-pine/cs-study/blob/main/cs/Q16-mvc-mvp-mvvm%20%ED%8C%A8%ED%84%B4.md)(담)
   - [ ] [GET과 POST의 차이](https://github.com/sol-pine/cs-study/blob/main/cs/Q17-%08GET%EA%B3%BC%20POST%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)(담)
+  - [ ] 메모리 구조 (해솔)
+  - [ ] 리스트 (해솔)
+  - [ ] 스택 & 큐 (하은) 
+  - [ ] 트리 (하은) 
+  - [ ] 그래프 (담)
+  - [ ] 힙 (담)
+  - [ ] 해시테이블
   
 > #### JavaScript 
   - [x] [컴파일러와 인터프리터](https://github.com/sol-pine/cs-study/tree/main/javascript/Q1-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0)
@@ -44,6 +51,14 @@
   - [ ] [동기와 비동기](https://github.com/sol-pine/cs-study/blob/main/javascript/Q15-%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)(해솔)
   - [ ] [스코프](https://github.com/sol-pine/cs-study/blob/main/javascript/Q16-%EC%8A%A4%EC%BD%94%ED%94%84.md)(담)
   - [ ] [실행 컨텍스트](https://github.com/sol-pine/cs-study/blob/main/javascript/Q17-%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)(담)
+  - [ ] 호스트 객체와 네이티브 객체 (해솔)
+  - [ ] attribute랑 property 차이 (해솔)
+  - [ ] use strict (하은) 
+  - [ ] docuemnt load event와 DOMContentLoaded event의 차이점 (하은) 
+  - [ ] prototype 기반 상속 (담)
+  - [ ] 익명 함수를 사용하는 기준 (담)
+  - [ ] call apply 차이
+  
 > #### React 
   - [x] [상태 관리](https://github.com/sol-pine/cs-study/tree/main/react/Q1-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)
   - [x] [DOM](https://github.com/sol-pine/cs-study/tree/main/react/Q2-DOM)
@@ -56,6 +71,16 @@
   - [ ] [React.Ref](https://github.com/sol-pine/cs-study/blob/main/react/Q9-Ref.md)(해솔)
   - [ ] [이벤트 처리](https://github.com/sol-pine/cs-study/blob/main/react/Q10-%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC.md)(담)
   - [ ] [Router](https://github.com/sol-pine/cs-study/blob/main/react/Q11-Router.md)(담)
+  - [ ] 리액트 버전별 차이 (+추가된 점) (해솔)
+  - [ ] 상태 관리 라이브러리(recoil, Apollo, Redux, MobX 등)의 차이점 (해솔)
+  - [ ] react랑 vue 차이 (하은) 
+  
+
+> ### CSS
+  - [ ] float가 어떻게 작동하는지 설명하세요. (하은) 
+  - [ ] css selector 동작원리 (담)
+  - [ ] 반응형 디자인과 적응형 디자인 차이 (담)
+  - [ ] contents가 안보이게 하는 방법 (캡쳐 방지? 보안? screen reader)
 
 ### ❓ 궁금증
 - 이벤트 위임 : currentTarget을 콘솔에 찍으면 뭐가 찍힐까?
