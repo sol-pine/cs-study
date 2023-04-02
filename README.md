@@ -25,12 +25,12 @@
   - [ ] [싱글톤 패턴](https://github.com/sol-pine/cs-study/blob/main/cs/Q15-%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)(해솔)
   - [ ] [MVC 패턴, MVP 패턴, MVVM 패턴](https://github.com/sol-pine/cs-study/blob/main/cs/Q16-mvc-mvp-mvvm%20%ED%8C%A8%ED%84%B4.md)(담)
   - [ ] [GET과 POST의 차이](https://github.com/sol-pine/cs-study/blob/main/cs/Q17-%08GET%EA%B3%BC%20POST%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)(담)
-  - [ ] 메모리 구조 (해솔)
-  - [ ] 리스트 (해솔)
-  - [ ] 스택 & 큐 (하은) 
-  - [ ] 트리 (하은) 
-  - [ ] 그래프 (담)
-  - [ ] 힙 (담)
+  - [ ] [메모리 구조](https://github.com/sol-pine/cs-study/blob/main/cs/Q18-%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0.md) (해솔)
+  - [ ] [리스트](https://github.com/sol-pine/cs-study/blob/main/cs/Q19-%EB%A6%AC%EC%8A%A4%ED%8A%B8.md) (해솔)
+  - [ ] [스택 & 큐](https://github.com/sol-pine/cs-study/blob/main/cs/Q20-%EC%8A%A4%ED%83%9D%26%ED%81%90.md) (하은) 
+  - [ ] [트리](https://github.com/sol-pine/cs-study/blob/main/cs/Q21-%ED%8A%B8%EB%A6%AC.md) (하은) 
+  - [ ] [그래프](https://github.com/sol-pine/cs-study/blob/main/cs/Q22-%EA%B7%B8%EB%9E%98%ED%94%84.md) (담)
+  - [ ] [힙](https://github.com/sol-pine/cs-study/blob/main/cs/Q23-%ED%9E%99.md) (담)
   - [ ] 해시테이블
   
 > #### JavaScript 
