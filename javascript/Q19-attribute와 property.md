@@ -1,0 +1,1 @@
+# attribute와 property
