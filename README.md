@@ -77,7 +77,7 @@
   
 
 > ### CSS
-  - [ ] [float가 어떻게 작동하는지 설명하세요.](https://github.com/sol-pine/cs-study/blob/main/css/Q1-float) (하은) 
+  - [ ] [float가 어떻게 작동하는지 설명하세요.](https://github.com/sol-pine/cs-study/blob/main/css/Q1-float.md) (하은) 
   - [ ] [css selector 동작원리](https://github.com/sol-pine/cs-study/blob/main/css/Q2-css%20selector%20%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.md) (담)
   - [ ] [반응형 디자인과 적응형 디자인 차이](https://github.com/sol-pine/cs-study/blob/main/css/Q3-%EB%B0%98%EC%9D%91%ED%98%95%20%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC%20%EC%A0%81%EC%9D%91%ED%98%95%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EC%B0%A8%EC%9D%B4.md) (담)
   - [ ] contents가 안보이게 하는 방법 (캡쳐 방지? 보안? screen reader)
