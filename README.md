@@ -73,7 +73,7 @@
   - [x] [Router](https://github.com/sol-pine/cs-study/blob/main/react/Q11-Router.md)
   - [ ] [리액트 버전별 차이](https://github.com/sol-pine/cs-study/blob/main/react/Q12-%EB%B2%84%EC%A0%84%EB%B3%84%20%EC%B0%A8%EC%9D%B4.md)(해솔)
   - [ ] [상태 관리 라이브러리](https://github.com/sol-pine/cs-study/blob/main/react/Q13-%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)(해솔)
-  - [ ] react와 vue 차이(https://github.com/sol-pine/cs-study/tree/main/react)(하은) 
+  - [ ] [react와 vue 차이](https://github.com/sol-pine/cs-study/tree/main/react)(하은) 
   
 
 > ### CSS
