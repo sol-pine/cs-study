@@ -73,13 +73,13 @@
   - [x] [Router](https://github.com/sol-pine/cs-study/blob/main/react/Q11-Router.md)
   - [ ] [리액트 버전별 차이](https://github.com/sol-pine/cs-study/blob/main/react/Q12-%EB%B2%84%EC%A0%84%EB%B3%84%20%EC%B0%A8%EC%9D%B4.md)(해솔)
   - [ ] [상태 관리 라이브러리](https://github.com/sol-pine/cs-study/blob/main/react/Q13-%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)(해솔)
-  - [ ] [react와 vue 차이](https://github.com/sol-pine/cs-study/tree/main/react)(하은) 
+  - [ ] [react와 vue 차이](https://github.com/sol-pine/cs-study/blob/main/react/Q14-react%EC%99%80%20vue%20%EC%B0%A8%EC%9D%B4.md)(하은) 
   
 
 > ### CSS
-  - [ ] float가 어떻게 작동하는지 설명하세요. (하은) 
-  - [ ] css selector 동작원리 (담)
-  - [ ] 반응형 디자인과 적응형 디자인 차이 (담)
+  - [ ] [float가 어떻게 작동하는지 설명하세요.](https://github.com/sol-pine/cs-study/blob/main/css/Q1-float) (하은) 
+  - [ ] [css selector 동작원리](https://github.com/sol-pine/cs-study/blob/main/css/Q2-css%20selector%20%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.md) (담)
+  - [ ] [반응형 디자인과 적응형 디자인 차이](https://github.com/sol-pine/cs-study/blob/main/css/Q3-%EB%B0%98%EC%9D%91%ED%98%95%20%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC%20%EC%A0%81%EC%9D%91%ED%98%95%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EC%B0%A8%EC%9D%B4.md) (담)
   - [ ] contents가 안보이게 하는 방법 (캡쳐 방지? 보안? screen reader)
 
 ### ❓ 궁금증
