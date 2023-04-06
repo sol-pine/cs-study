@@ -25,13 +25,14 @@
   - [x] [싱글톤 패턴](https://github.com/sol-pine/cs-study/blob/main/cs/Q15-%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4.md)
   - [x] [MVC 패턴, MVP 패턴, MVVM 패턴](https://github.com/sol-pine/cs-study/blob/main/cs/Q16-mvc-mvp-mvvm%20%ED%8C%A8%ED%84%B4.md)
   - [x] [GET과 POST의 차이](https://github.com/sol-pine/cs-study/blob/main/cs/Q17-%08GET%EA%B3%BC%20POST%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md)
-  - [ ] [메모리 구조](https://github.com/sol-pine/cs-study/blob/main/cs/Q18-%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0.md) (해솔)
-  - [ ] [리스트](https://github.com/sol-pine/cs-study/blob/main/cs/Q19-%EB%A6%AC%EC%8A%A4%ED%8A%B8.md) (해솔)
-  - [ ] [스택 & 큐](https://github.com/sol-pine/cs-study/blob/main/cs/Q20-%EC%8A%A4%ED%83%9D%26%ED%81%90.md) (하은) 
-  - [ ] [트리](https://github.com/sol-pine/cs-study/blob/main/cs/Q21-%ED%8A%B8%EB%A6%AC.md) (하은) 
-  - [ ] [그래프](https://github.com/sol-pine/cs-study/blob/main/cs/Q22-%EA%B7%B8%EB%9E%98%ED%94%84.md) (담)
-  - [ ] [힙](https://github.com/sol-pine/cs-study/blob/main/cs/Q23-%ED%9E%99.md) (담)
-  - [ ] 해시테이블
+  - [x] [메모리 구조](https://github.com/sol-pine/cs-study/blob/main/cs/Q18-%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0.md)
+  - [x] [리스트](https://github.com/sol-pine/cs-study/blob/main/cs/Q19-%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
+  - [x] [스택 & 큐](https://github.com/sol-pine/cs-study/blob/main/cs/Q20-%EC%8A%A4%ED%83%9D%26%ED%81%90.md)
+  - [x] [트리](https://github.com/sol-pine/cs-study/blob/main/cs/Q21-%ED%8A%B8%EB%A6%AC.md) 
+  - [x] [그래프](https://github.com/sol-pine/cs-study/blob/main/cs/Q22-%EA%B7%B8%EB%9E%98%ED%94%84.md)
+  - [x] [힙](https://github.com/sol-pine/cs-study/blob/main/cs/Q23-%ED%9E%99.md)
+  - [ ] 해시테이블 (해솔)
+  - [ ] SSR (해솔)
   
 > #### JavaScript 
   - [x] [컴파일러와 인터프리터](https://github.com/sol-pine/cs-study/tree/main/javascript/Q1-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%94%84%EB%A6%AC%ED%84%B0)
@@ -51,13 +52,18 @@
   - [x] [동기와 비동기](https://github.com/sol-pine/cs-study/blob/main/javascript/Q15-%EB%8F%99%EA%B8%B0%EC%99%80%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
   - [x] [스코프](https://github.com/sol-pine/cs-study/blob/main/javascript/Q16-%EC%8A%A4%EC%BD%94%ED%94%84.md)
   - [x] [실행 컨텍스트](https://github.com/sol-pine/cs-study/blob/main/javascript/Q17-%EC%8B%A4%ED%96%89%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.md)
-  - [ ] [호스트 객체와 네이티브 객체](https://github.com/sol-pine/cs-study/blob/main/javascript/Q18-%ED%98%B8%EC%8A%A4%ED%8A%B8%20%EA%B0%9D%EC%B2%B4%EC%99%80%20%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EA%B0%9D%EC%B2%B4.md)(해솔)
-  - [ ] [attribute와 property](https://github.com/sol-pine/cs-study/blob/main/javascript/Q19-attribute%EC%99%80%20property.md)(해솔)
-  - [ ] [use strict](https://github.com/sol-pine/cs-study/blob/main/javascript/Q20-use%20strict.md)(하은) 
-  - [ ] [docuemnt load event와 DOMContentLoaded event](https://github.com/sol-pine/cs-study/blob/main/javascript/Q21-docuemnt%20load%20event%EC%99%80%20DOMContentLoaded%20event.md)(하은) 
-  - [ ] [prototype 기반 상속](https://github.com/sol-pine/cs-study/blob/main/javascript/Q22-prototype%20%EA%B8%B0%EB%B0%98%20%EC%83%81%EC%86%8D.md)(담)
-  - [ ] [익명 함수를 사용하는 기준](https://github.com/sol-pine/cs-study/blob/main/javascript/Q23-%EC%9D%B5%EB%AA%85%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EA%B8%B0%EC%A4%80.md)(담)
-  - [ ] call apply 차이
+  - [x] [호스트 객체와 네이티브 객체](https://github.com/sol-pine/cs-study/blob/main/javascript/Q18-%ED%98%B8%EC%8A%A4%ED%8A%B8%20%EA%B0%9D%EC%B2%B4%EC%99%80%20%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20%EA%B0%9D%EC%B2%B4.md)
+  - [x] [attribute와 property](https://github.com/sol-pine/cs-study/blob/main/javascript/Q19-attribute%EC%99%80%20property.md)
+  - [x] [use strict](https://github.com/sol-pine/cs-study/blob/main/javascript/Q20-use%20strict.md)
+  - [x] [docuemnt load event와 DOMContentLoaded event](https://github.com/sol-pine/cs-study/blob/main/javascript/Q21-docuemnt%20load%20event%EC%99%80%20DOMContentLoaded%20event.md)
+  - [x] [prototype 기반 상속](https://github.com/sol-pine/cs-study/blob/main/javascript/Q22-prototype%20%EA%B8%B0%EB%B0%98%20%EC%83%81%EC%86%8D.md)
+  - [x] [익명 함수를 사용하는 기준](https://github.com/sol-pine/cs-study/blob/main/javascript/Q23-%EC%9D%B5%EB%AA%85%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EA%B8%B0%EC%A4%80.md)
+  - [ ] call apply 차이 (하은)
+  - [ ] Ajax (담)
+  - [ ] 태스크 큐 (담)
+
+> #### TypeScript
+  - [ ] Interface (해솔)
   
 > #### React 
   - [x] [상태 관리](https://github.com/sol-pine/cs-study/tree/main/react/Q1-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)
@@ -71,16 +77,17 @@
   - [x] [React.Ref](https://github.com/sol-pine/cs-study/blob/main/react/Q9-Ref.md)
   - [x] [이벤트 처리](https://github.com/sol-pine/cs-study/blob/main/react/Q10-%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC.md)
   - [x] [Router](https://github.com/sol-pine/cs-study/blob/main/react/Q11-Router.md)
-  - [ ] [리액트 버전별 차이](https://github.com/sol-pine/cs-study/blob/main/react/Q12-%EB%B2%84%EC%A0%84%EB%B3%84%20%EC%B0%A8%EC%9D%B4.md)(해솔)
-  - [ ] [상태 관리 라이브러리](https://github.com/sol-pine/cs-study/blob/main/react/Q13-%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)(해솔)
-  - [ ] [react와 vue 차이](https://github.com/sol-pine/cs-study/blob/main/react/Q14-react%EC%99%80%20vue%20%EC%B0%A8%EC%9D%B4.md)(하은) 
-  
+  - [x] [리액트 버전별 차이](https://github.com/sol-pine/cs-study/blob/main/react/Q12-%EB%B2%84%EC%A0%84%EB%B3%84%20%EC%B0%A8%EC%9D%B4.md)
+  - [x] [상태 관리 라이브러리](https://github.com/sol-pine/cs-study/blob/main/react/Q13-%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
+  - [x] [react와 vue 차이](https://github.com/sol-pine/cs-study/blob/main/react/Q14-react%EC%99%80%20vue%20%EC%B0%A8%EC%9D%B4.md)
+  - [ ] 제어 컴포넌트와 비제어 컴포넌트 (담)
+  - [ ] 리액트를 사용하는 이유 (하은)
 
 > ### CSS
-  - [ ] [float가 어떻게 작동하는지 설명하세요.](https://github.com/sol-pine/cs-study/blob/main/css/Q1-float.md) (하은) 
-  - [ ] [css selector 동작원리](https://github.com/sol-pine/cs-study/blob/main/css/Q2-css%20selector%20%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.md) (담)
-  - [ ] [반응형 디자인과 적응형 디자인 차이](https://github.com/sol-pine/cs-study/blob/main/css/Q3-%EB%B0%98%EC%9D%91%ED%98%95%20%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC%20%EC%A0%81%EC%9D%91%ED%98%95%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EC%B0%A8%EC%9D%B4.md) (담)
-  - [ ] contents가 안보이게 하는 방법 (캡쳐 방지? 보안? screen reader)
+  - [x] [float가 어떻게 작동하는지 설명하세요.](https://github.com/sol-pine/cs-study/blob/main/css/Q1-float.md) 
+  - [x] [css selector 동작원리](https://github.com/sol-pine/cs-study/blob/main/css/Q2-css%20selector%20%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC.md)
+  - [x] [반응형 디자인과 적응형 디자인 차이](https://github.com/sol-pine/cs-study/blob/main/css/Q3-%EB%B0%98%EC%9D%91%ED%98%95%20%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC%20%EC%A0%81%EC%9D%91%ED%98%95%20%EB%94%94%EC%9E%90%EC%9D%B8%20%EC%B0%A8%EC%9D%B4.md)
+  - [ ] contents가 안보이게 하는 방법 (캡쳐 방지? 보안? screen reader) (하은)
 
 ### ❓ 궁금증
 - 이벤트 위임 : currentTarget을 콘솔에 찍으면 뭐가 찍힐까?
