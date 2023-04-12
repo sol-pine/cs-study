@@ -31,7 +31,7 @@
   - [x] [트리](https://github.com/sol-pine/cs-study/blob/main/cs/Q21-%ED%8A%B8%EB%A6%AC.md) 
   - [x] [그래프](https://github.com/sol-pine/cs-study/blob/main/cs/Q22-%EA%B7%B8%EB%9E%98%ED%94%84.md)
   - [x] [힙](https://github.com/sol-pine/cs-study/blob/main/cs/Q23-%ED%9E%99.md)
-  - [ ] 해시테이블 (해솔)
+  - [ ] [해시테이블](https://github.com/sol-pine/cs-study/blob/main/cs/Q24-%ED%95%B4%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94.md)(해솔)
   - [ ] SSR (해솔)
   
 > #### JavaScript 
