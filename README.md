@@ -63,7 +63,7 @@
   - [ ] 태스크 큐 (담)
 
 > #### TypeScript
-  - [ ] Interface (해솔)
+  - [ ] [Interface](https://github.com/sol-pine/cs-study/blob/main/typescript/Q1-interface.md)(해솔)
   
 > #### React 
   - [x] [상태 관리](https://github.com/sol-pine/cs-study/tree/main/react/Q1-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)
