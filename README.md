@@ -58,7 +58,7 @@
   - [x] [docuemnt load event와 DOMContentLoaded event](https://github.com/sol-pine/cs-study/blob/main/javascript/Q21-docuemnt%20load%20event%EC%99%80%20DOMContentLoaded%20event.md)
   - [x] [prototype 기반 상속](https://github.com/sol-pine/cs-study/blob/main/javascript/Q22-prototype%20%EA%B8%B0%EB%B0%98%20%EC%83%81%EC%86%8D.md)
   - [x] [익명 함수를 사용하는 기준](https://github.com/sol-pine/cs-study/blob/main/javascript/Q23-%EC%9D%B5%EB%AA%85%20%ED%95%A8%EC%88%98%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EA%B8%B0%EC%A4%80.md)
-  - [ ] call apply 차이 (하은)
+  - [ ] [call apply 차이](https://github.com/sol-pine/cs-study/blob/main/javascript/Q24-call%20apply%20%EC%B0%A8%EC%9D%B4.md) (하은)
   - [ ] Ajax (담)
   - [ ] 태스크 큐 (담)
 
@@ -80,8 +80,8 @@
   - [x] [리액트 버전별 차이](https://github.com/sol-pine/cs-study/blob/main/react/Q12-%EB%B2%84%EC%A0%84%EB%B3%84%20%EC%B0%A8%EC%9D%B4.md)
   - [x] [상태 관리 라이브러리](https://github.com/sol-pine/cs-study/blob/main/react/Q13-%EC%83%81%ED%83%9C%20%EA%B4%80%EB%A6%AC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)
   - [x] [react와 vue 차이](https://github.com/sol-pine/cs-study/blob/main/react/Q14-react%EC%99%80%20vue%20%EC%B0%A8%EC%9D%B4.md)
-  - [ ] 제어 컴포넌트와 비제어 컴포넌트 (담)
-  - [ ] 리액트를 사용하는 이유 (하은)
+  - [ ] [제어 컴포넌트와 비제어 컴포넌트](https://github.com/sol-pine/cs-study/blob/main/react/Q15-%EC%A0%9C%EC%96%B4%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80%20%EB%B9%84%EC%A0%9C%EC%96%B4%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8.md) (담)
+  - [ ] [리액트를 사용하는 이유](https://github.com/sol-pine/cs-study/blob/main/react/Q16-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md) (하은)
 
 > ### CSS
   - [x] [float가 어떻게 작동하는지 설명하세요.](https://github.com/sol-pine/cs-study/blob/main/css/Q1-float.md) 
